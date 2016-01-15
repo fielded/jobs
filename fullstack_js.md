@@ -5,7 +5,10 @@ We believe that only diverse teams can build strong solutions to the often wicke
 
 ##The job
 We’re looking for a motivated full stack web developer to help us build a variety of *enterprise scale logistics and management information systems*. You’ll help investigate user needs, and architect, build and ship prototypes, services and enterprise grade systems, as well as assisting with basic data ops support, and basic devops.
+
 Your job will be to translate requirements and business needs into clean, modular, well tested code based on appropriate design patterns. You will work closely with other developers in Nigeria and abroad, supporting each other and collaborating through frequent code reviews and strong adherence to best engineering practices.
+
+This is initially a 6-month full time contract position.
 
 ##Required
 * Experience with client- and server-side Javascript, document-oriented databases (CouchDB and AngularJS a plus)
