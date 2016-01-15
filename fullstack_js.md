@@ -3,8 +3,8 @@
 Field designs and builds innovative solutions for improving child survival and access to health care in several African countries. Our small team works from Berlin, Germany and Abuja, Nigeria. We’re looking for engaged people to work with us on the software tools which power our projects.
 We believe that only diverse teams can build strong solutions to the often wicked problems that health systems in emerging contexts face. We believe people matter the most - those we work with and that we work for. We believe in the power of careful design, incorrigible curiosity, and respect for the challenges and contexts we engage to produce solutions that generate real, lasting value for the people and programs we serve. 
 
-##The job
-We’re looking for a motivated full stack web developer to help us build a variety of *enterprise scale logistics and management information systems*. You’ll help investigate user needs, and architect, build and ship prototypes, services and enterprise grade systems, as well as assisting with basic data ops support, and basic devops.
+##The Job
+We’re looking for motivated full stack web developers to help us build a variety of *enterprise scale logistics and information management systems*. You’ll help investigate user needs, and architect, build and ship prototypes, services and apps, as well as assisting with basic data ops support, and basic devops.
 
 Your job will be to translate requirements and business needs into clean, modular, well tested code based on appropriate design patterns. You will work closely with other developers in Nigeria and abroad, supporting each other and collaborating through frequent code reviews and strong adherence to best engineering practices.
 
@@ -34,6 +34,6 @@ This is initially a 6-month full time contract position.
 * Front-end (javascript, css, html5) software development skills
 * Experience working with Microsoft Dynamics NAV / Microsoft SQL Server
 
-==Contact us!
-Please send us your CV and a design portfolio or references that demonstrate your past work and abilities. Contact us: <a href="mailto:info@field.partners">info@field.partners</a>. We’re looking forward to hearing from you!
+##Contact us!
+If this sounds like you please send your CV and work portfolio or references that demonstrate your past work and abilities to <a href="mailto:jobs@field.partners">jobs@field.partners</a>. We’re looking forward to hearing from you!
 
