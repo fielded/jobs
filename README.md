@@ -9,4 +9,4 @@ If this sounds appealing to you we'd love to chat. **We're currently looking for
 * [Designers](designer.md)
 * [Full stack devs](fullstack_js.md)
 
-please [get in touch](mailto:info@field.partners)
+please [get in touch here](mailto:info@field.partners)
