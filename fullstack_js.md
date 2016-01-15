@@ -4,7 +4,7 @@ Field designs and builds innovative solutions for improving child survival and a
 We believe that only diverse teams can build strong solutions to the often wicked problems that health systems in emerging contexts face. We believe people matter the most - those we work with and that we work for. We believe in the power of careful design, incorrigible curiosity, and respect for the challenges and contexts we engage to produce solutions that generate real, lasting value for the people and programs we serve. 
 
 ##The Job
-We’re looking for motivated full stack web developers to help us build a variety of *enterprise scale logistics and information management systems*. You’ll help investigate user needs, and architect, build and ship prototypes, services and apps, as well as assisting with basic data ops support, and basic devops.
+We’re looking for motivated full stack web developers to help us build a variety of **enterprise scale logistics and information management systems**. You’ll help investigate user needs, and architect, build and ship prototypes, services and apps, as well as assisting with basic data ops support, and basic devops.
 
 Your job will be to translate requirements and business needs into clean, modular, well tested code based on appropriate design patterns. You will work closely with other developers in Nigeria and abroad, supporting each other and collaborating through frequent code reviews and strong adherence to best engineering practices.
 
