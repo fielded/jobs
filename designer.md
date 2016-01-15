@@ -34,5 +34,5 @@ This is initially a part time contract position.
 * Front-end (javascript, css, html5) software development skills
 
 ## Contact us!
-Please send us your CV and a design portfolio or references that demonstrate your past work and abilities. Contact us: <a href="mailto:info@field.partners">info@field.partners</a>. We’re looking forward to hearing from you!
+If this sounds like you please send your CV and a design portfolio or references that demonstrate your past work and abilities to <a href="mailto:jobs@field.partners">jobs@field.partners</a>. We’re looking forward to hearing from you!
 
