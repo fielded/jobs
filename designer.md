@@ -7,6 +7,8 @@ We believe that only diverse teams can build strong solutions to the often wicke
 We’re looking for a UI and UX designer to create amazing user experiences that speak to people in diverse contexts. You’ll help investigate problems, and design, test and ship concepts, mockups and assets, as well as assisting with front end development. 
 Your job will be to translate high-level requirements into interaction flows and intuitive, functional workflows, as well as to design interfaces and methodologies for navigating complex information. You will lead the visual design of our tools, working closely with our domain experts, engineers and users to develop the interfaces which translate our programs into clear, intuitive, valuable user experiences.
 
+This is initially a part time contract position.
+
 ## Required
 * Experience with design research, user-centred design, cross-cultural projects
 * A deep curiosity for information and user interface design
