@@ -21,7 +21,7 @@ Ultimately we need you to help us push the boundaries of UI/UX and make mobile a
 * Front-end (javascript, css, html5) software development skills
 * High ability to work and interact cross-functionally
 * Knowledge of accessibility and implementation thereof
-* Located in Abuja and/or willing to travel
+* Located in Abuja and/or willing to travel. Remote work will be considered.
 * Language skills: English (fluent)
 
 ## Preferable
