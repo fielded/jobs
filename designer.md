@@ -11,7 +11,7 @@ Your job will be to translate high-level requirements into user-friendly interac
 Ultimately we need you to help us push the boundaries of UI/UX and make mobile a tool for social and economic empowerment. This is intended to be a full-time position. 
 
 ## Required
-* Experience with design research, user-centred design design
+* Experience with design research, user-centred design
 * User-oriented, evidence-based mindset and openness to user feedback, new ideas
 * A deep curiosity for information and interaction design
 * 2+ years working experience in a fast-paced environment (agency, software development company, freelance portfolios also considered)
@@ -25,10 +25,10 @@ Ultimately we need you to help us push the boundaries of UI/UX and make mobile a
 * Language skills: English (fluent)
 
 ## Preferable
-* Experience with data-driven, decision-support systems.
-* Experience in designing for offline-first solutions or environments with unstable internet connections.
-* Experience in remote work with distributed teams.
-* Experience in mobile UX.
+* Experience with data-driven, decision-support systems
+* Experience in designing for offline-first solutions or environments with unstable internet connections
+* Experience in remote work with distributed teams
+* Experience in mobile UX
 
 ## Contact us!
 If this sounds like you please send your CV and a design portfolio or references demonstrating your past work and abilities to <a href="mailto:jobs@field.partners">jobs@field.partners</a>. We’re looking forward to hearing from you!
