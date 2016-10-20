@@ -1,10 +1,10 @@
-# UI and UX Designer
+# Design Lead
 
 [Field](http://www.field.partners) designs and builds innovative solutions for improving child survival and access to health care in several African countries. Our small team works from Berlin, Germany and Abuja, Nigeria. We’re looking for engaged people to work with us on the software tools which power our projects.
 We believe that only diverse teams can build strong solutions to the often wicked problems that health systems in emerging contexts face. We believe people matter the most - those we work with and that we work for. We believe in the power of careful design, incorrigible curiosity, and respect for the challenges and contexts we engage to produce solutions that generate real, lasting value for the people and programs we serve. 
 
 ## The Job
-We’re looking for a lead UI/UX designer to drive visual and interaction development of a family of native-mobile products for users across Africa and Asia helping strengthen health systems and save lives. You’ll work on diverse teams to investigate problems and set strategy and assist front-end development while leading the design, testing, and shipping of concepts, mockups, and assets.
+We’re looking for a lead UI/UX design lead to drive visual and interaction development of a family of native-mobile products for users across Africa and Asia helping strengthen health systems and save lives. You’ll work on diverse teams to investigate problems and set strategy and assist front-end development while leading the design, testing, and shipping of concepts, mockups, and assets.
 
 Your job will be to translate high-level requirements into interaction flows and intuitive, functional workflows, as well as design interfaces and methodologies for navigating complex information. You will lead the visual design of this product family, working closely with our business, operations, and health-systems experts, engineers, and users to develop the interfaces that translate best practices into appealing, intuitive, and valuable user experiences.
 
