@@ -24,7 +24,7 @@ This is initially a 12-month full time contract position.
 * 4+ years work experience in data analysis or related field, including considerable professional experience working in a team
 * Strong mathematical background including comfort with multivariable calculus and linear algebra
 * High creativity and problem solving abilities
-* Location: Remote (with travel to Abuja)
+* Location: Abuja (remote will be considered)
 * Language skills: English (fluent)
 
 ##Preferable
