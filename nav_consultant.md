@@ -1,4 +1,4 @@
-#MS Dynamics NAV Consultant
+#MS Dynamics NAV Developer
 
 Field designs and builds innovative solutions for improving child survival and access to health care in several African countries. Our small team works from Berlin, Germany and Abuja, Nigeria, on national systems across the West African region.
 
