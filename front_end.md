@@ -24,7 +24,7 @@ This is initially a 12-month full time contract position.
 * Experience with core Javascript development tools (npm, gulp, bower etc)
 * Professional experience with modern front end technologies (ES6, SASS, html5)
 * Experience with Unix environments and basic devops
-* Location: Nigeria (remote with travel to Abuja)
+* Location: Abuja
 * Language skills: English (fluent)
 * Experience in building apps for offline-first environments and unstable internet connections
 
