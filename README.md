@@ -8,6 +8,8 @@ If this sounds appealing to you we'd love to chat. **We're currently looking for
 
 * [Designers](designer.md)
 * [Full stack devs](fullstack_js.md)
-* [A Dynamics NAV Consultant](nav_consultant.md)
+* [Front end devs](front_end.md)
+* [Data scientists](data_scientist.md)
+* [A Dynamics NAV developer](nav_consultant.md)
 
 please [get in touch here](mailto:jobs@field.partners)
