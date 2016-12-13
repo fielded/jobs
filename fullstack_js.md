@@ -25,7 +25,7 @@ This is initially a 6-month full time contract position.
 * High creativity and problem solving abilities
 * Experience with core Javascript development tools (npm, gulp, bower etc)
 * Experience with Unix environments and basic devops
-* Location: Nigeria (remote with travel to Abuja)
+* Location: Abuja
 * Language skills: English (fluent)
 
 ##Preferable
