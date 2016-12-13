@@ -9,14 +9,14 @@ We’re looking for an experienced Dynamics NAV developer to work with our team 
 
 Your job will be to assist in the development of key NAV modifications including APIs and interface modifications to improve user experiences with the system, identification of configuration issues, and translation of NAV capabilities into operational improvements for national scale health commodity supply chains.
 
-This is initially a contract position.
+This is initially a 6-month contract position.
 
 ##Required
 * At least 3+ years professional experience as key consultant on multiple NAV 2013 implementations, including expert-level understanding of NAV Warehouse Management
 * Experience developing custom components for Dynamics NAV including web services and custom interface components
 * High creativity and problem solving abilities
 * Excellent communicator
-* Location: remote (Berlin or Abuja preferred)
+* Location: Abuja (remote will be considered)
 * Language skills: English (fluent)
 
 ##Preferred
