@@ -1,7 +1,7 @@
 # Product Manager
 
 ## Us
-[Field](http://www.field.partners) designs and builds innovative solutions for improving child survival and access to healthcare in several African countries. We’re looking for creative, curious and tenacious people to work with us creating design-driven solutions to shape health systems and fix markets failing people around the world. Our distributed team works from Berlin, London and Boston, with extended visits to Abuja, Nigeria, where we base design research and development from the ground, where the learnings are richest. 
+[Field](http://www.field.partners) designs and builds innovative solutions for improving child survival, healthcare and conservation in several African countries. We’re looking for creative, curious and tenacious people to work with us creating design-driven solutions to shape health systems and fix markets failing people around the world. Our distributed team works from Berlin, London and Boston, with extended visits to Abuja, Nigeria, where we base design research and development from the ground, where the learnings are richest. 
 
 We believe that only diverse teams can build strong solutions to the often wicked problems that health systems face. We believe people matter the most - those that we work with and that we work for. We believe in the power of careful design, incorrigible curiosity, and respect for the challenges and contexts we engage to produce solutions that generate real, lasting value for the people and programs we serve. 
 
