@@ -15,7 +15,8 @@ This is a full-time position, with frequent (but negotiable) travel requirements
 ## Required
 * Experience with and passion for design research and cross-cultural product development
 * 4+ years' working experience in a product design or management role
-* Analytical thinker, high degree of fluency with quantitative methods, data analysis and manipulation. Comfortable working with complex enterprise systems and datasets
+* Analytical thinker, high degree of fluency with quantitative methods, data analysis and manipulation
+* Comfortable working with complex enterprise systems and datasets
 * Professional experience managing mobile and web products through entire product development lifecycle from strategy to maintenance (portfolio required)
 * Excellent presentation skills and ability to articulate product value proposition for a range of stakeholders, facilitate development process and manage diverse stakeholder demands on the fly
 * Comfortable spinning up wireframes and clickable mockups
