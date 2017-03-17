@@ -1,40 +1,36 @@
 # Design Lead
 
-[Field](http://www.field.partners) designs and builds innovative solutions for improving child survival and access to health care in several African countries. Our small team works from Berlin, Germany and Abuja, Nigeria. We’re looking for engaged people to work with us on the software tools which power our projects.
-We believe that only diverse teams can build strong solutions to the often wicked problems that health systems in emerging contexts face. We believe people matter the most - those we work with and that we work for. We believe in the power of careful design, incorrigible curiosity, and respect for the challenges and contexts we engage to produce solutions that generate real, lasting value for the people and programs we serve. 
+[Field](http://www.field.partners) designs and builds innovative solutions for improving child survival and access to healthcare in several African countries. We’re looking for creative, curious and tenacious people to work with us creating design-driven solutions to shape health systems and fix markets failing people around the world. Our distributed team works from Berlin, London and Boston, with extended visits to Abuja, Nigeria, where we base design research and development from the ground, where the learnings are richest. 
+
+We believe that only diverse teams can build strong solutions to the often wicked problems that health systems face. We believe people matter the most - those that we work with and that we work for. We believe in the power of careful design, incorrigible curiosity, and respect for the challenges and contexts we engage to produce solutions that generate real, lasting value for the people and programs we serve. 
 
 ## The Job
-We’re looking for a lead UI/UX design lead to drive visual and interaction development of a family of native-mobile products for users across Africa and Asia helping strengthen health systems and save lives. You’ll work on diverse teams to investigate problems and set strategy and assist front-end development while leading the design, testing, and shipping of concepts, mockups, and assets.
+We’re looking for a design lead to help us build a unique approach to digital interaction catering to the billions of users coming online across the world's emerging markets, driving visual and interaction design for a family of web and mobile products for healthcare, health logistics and conservation. Our design lead will work closely with our developers, users and subject matter experts to investigate and synthesize requirements and opportunities, researching, designing and building comprehensive, beautiful solutions and the processes that help us reach them.
 
-Your job will be to translate high-level requirements into interaction flows and intuitive, functional workflows, as well as design interfaces and methodologies for navigating complex information. You will lead the visual design of this product family, working closely with our business, operations, and health-systems experts, engineers, and users to develop the interfaces that translate best practices into appealing, intuitive, and valuable user experiences.
+Day to day, our design lead will translate high-level requirements into structured interactions and intuitive, functional workflows, as well as design interfaces and methodologies for navigating complex information. They will assist with mockup and asset production, and basic front-end development where necessary, but prioritise development and stewardship of our design philosophy and processes, and their realisation in the products we serve. Ultimately, our design lead will help us push the boundaries of design as a practice, and refine it as a tool for social and economic empowerment. 
 
-Ultimately we need you to help us push the boundaries of UI/UX and make mobile a tool for social and economic empowerment. This is intended to be a full-time position. 
+This is a full-time position, with frequent (but negotiable) travel requirements.
 
 ## Required
-* Experience with design research, user-centred design, cross-cultural design
-* A deep curiosity for information and interaction design
-* 3+ years working experience in a fast-paced environment (agency, software development company, freelance portfolios also considered)
+* Proven experience with and passion for design research, cross-cultural design, information and interaction design
+* 6+ years working experience in a fast-paced environment (agency, software development company, freelance portfolios also considered)
 * MS/BA/BS in design-related discipline, or comparable work experience
-* Demonstrated excellence in interaction, visual, and experience design principles and their implementation in web and mobile (portfolio required)
-* High creativity and design leadership
-* Expert knowledge of core design tools and familiarity with current Web technologies
-* High ability to work and interact cross-functionally
-* Self-motivated, team player, and can meet a deadline
+* Demonstrated excellence in interaction, visual, and experience design. Demonstrated knowledge of design best practices and their implementation in web and mobile (portfolio required)
+* Comfortable spinning up wireframes, clickable mockups and a modern front-end dev environment
+* Demonstrated ability to work and interact cross-functionally with experts on technical subject matter, developers, business development, public and private sector clients
+* Demonstrated ability to decompose and complex systems and data to produce effective interfaces and visualisations
 * Excellent analytical and creative problem solving skills
-* Experience working with visual design tools such as Adobe Photoshop and Sketch.
-* Ability to turn designs into static HTML / CSS prototypes.
-* Knowledge of accessibility and implementation thereof.
 * Willing to travel (Europe and Africa) 
 * Language skills: English (fluent)
 
 ## Preferable
-* Experience with data-driven, decision-support systems.
-* Experience in designing for offline-first solutions or environments with unstable internet connections.
-* Experience in remote work with distributed teams.
-* Experience in mobile UX.
+* Professional experience working on data-driven decision-support systems
+* Professional experience designing for novice or semi-literate users
+* Professional experience working remotely and with distributed teams
+* Professional experience working in West Africa, especially Nigeria
 * Front-end (javascript, css, html5) software development skills.
 * Location: Abuja or Berlin preferred, but remote work will be considered.
 
 ## Contact us!
-If this sounds like you please send your CV and a design portfolio or references demonstrating your past work and abilities to <a href="mailto:jobs@field.partners">jobs@field.partners</a>. We’re looking forward to hearing from you!
+If this sounds a lot like you we should really talk. Please send a portfolio to <a href="mailto:jobs@field.partners">jobs@field.partners</a>.
 
